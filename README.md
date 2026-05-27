@@ -13,9 +13,4 @@ Janakpur ke local kaarigar dwara banaye gaye Mithila print kapde ka online bazaa
 2. **Women**: Kurti, saree, dupatta, suit set
 3. **Unisex**: Gamcha, stole, fabric by meter
 
-### Kaise chalana hai? [Agar code hai to]
-```bash
-git clone https://github.com/pyartumara45-cpu/Mithila-bazzar.git
-cd Mithila-bazzar
-npm install
-npm start
+
